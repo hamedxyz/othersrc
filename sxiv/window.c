@@ -120,7 +120,7 @@ void win_init(win_t *win)
 	win_init_font(e, f);
 
 	bg = win_res(db, RES_CLASS ".background", "#1d2021");
-	fg = win_res(db, RES_CLASS ".foreground", "#82ba48");
+	fg = win_res(db, RES_CLASS ".foreground", "#fbf1c7");
 	win_alloc_color(e, bg, &win->bg);
 	win_alloc_color(e, fg, &win->fg);
 
