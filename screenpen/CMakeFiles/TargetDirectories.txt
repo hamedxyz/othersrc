@@ -1,0 +1,7 @@
+/home/air/repos/bruh/CMakeFiles/screenpen.dir
+/home/air/repos/bruh/CMakeFiles/edit_cache.dir
+/home/air/repos/bruh/CMakeFiles/rebuild_cache.dir
+/home/air/repos/bruh/CMakeFiles/list_install_components.dir
+/home/air/repos/bruh/CMakeFiles/install.dir
+/home/air/repos/bruh/CMakeFiles/install/local.dir
+/home/air/repos/bruh/CMakeFiles/install/strip.dir
