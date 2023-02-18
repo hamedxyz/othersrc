@@ -1,0 +1,7 @@
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/screenpen.dir
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/edit_cache.dir
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/rebuild_cache.dir
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/list_install_components.dir
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/install.dir
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/install/local.dir
+/home/air/.local/src/othersrc/screenpenbuild/CMakeFiles/install/strip.dir
