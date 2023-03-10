@@ -9,9 +9,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/home/air/.local/src/othersrc/screenpen/CMakeLists.txt"
   "/home/air/.local/src/othersrc/screenpen/sources.cmake"
-  "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
-  "CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.25.2/CMakeSystem.cmake"
+  "CMakeFiles/3.25.3/CMakeCCompiler.cmake"
+  "CMakeFiles/3.25.3/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.25.3/CMakeSystem.cmake"
   "/usr/lib/cmake/Qt5/Qt5Config.cmake"
   "/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
   "/usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
@@ -92,7 +92,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake/Modules/CMakeTestCCompiler.cmake"
   "/usr/share/cmake/Modules/CMakeTestCXXCompiler.cmake"
   "/usr/share/cmake/Modules/CMakeTestCompilerCommon.cmake"
-  "/usr/share/cmake/Modules/CMakeUnixFindMake.cmake"
   "/usr/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake"
   "/usr/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
   "/usr/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
@@ -167,11 +166,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
-  "CMakeFiles/3.25.2/CMakeSystem.cmake"
-  "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
-  "CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
-  "CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.25.3/CMakeSystem.cmake"
+  "CMakeFiles/3.25.3/CMakeCCompiler.cmake"
+  "CMakeFiles/3.25.3/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.25.3/CMakeCCompiler.cmake"
+  "CMakeFiles/3.25.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
