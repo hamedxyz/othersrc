@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-08488df62cd526e8b0297b15c30bc549 src/moc_screenwidget.cpp
-684a4c5f287e59a44068a1264dcdde6e ui_screenwidget.h
